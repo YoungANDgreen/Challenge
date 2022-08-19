@@ -1,4 +1,4 @@
-# Challenge-1
+# Challenge
 
 ## This webpage is a landing for Horiseon with updated accessibility alt descriptions for the images.
 
